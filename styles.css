@@ -75,6 +75,7 @@ body {
 .contact-info__header {
     color: var(--primary-text-color);
     margin-bottom: 15px;
+    font-style: italic;
     text-decoration-color: var(--text-decoration-color);
     text-decoration-line: underline;
 }
